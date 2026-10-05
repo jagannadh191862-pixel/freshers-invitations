@@ -1,0 +1,5012 @@
+[
+  {
+    "roll_no": "26A85A6101",
+    "full_name": "GUDAVALLI AJAYENDRA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6102",
+    "full_name": "IMMADI MANI KANTA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6103",
+    "full_name": "JITTUGA ROHAN SAATVIK",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6104",
+    "full_name": "KATHULA MAHESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6105",
+    "full_name": "KOLLA VENKATA NAGA SRI PAVAN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6106",
+    "full_name": "KUNTLA VARSHINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6107",
+    "full_name": "SRIPATHI SRI SAI RAM",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6108",
+    "full_name": "YADLA TEJASWINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A6101",
+    "full_name": "ADAPA BHANU SAI RAHUL",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6102",
+    "full_name": "AINAPARTHI MEGHANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6103",
+    "full_name": "ANUMOLU CHARANYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6104",
+    "full_name": "BALLA SATYA VANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6105",
+    "full_name": "BANDARU GUNA VENKATA SIRISHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6106",
+    "full_name": "BARRE RISHITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6107",
+    "full_name": "BATHULA ABHILASH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6108",
+    "full_name": "BODABALLA PRASANNA KUMARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6109",
+    "full_name": "CHENNA AKHILA NAGA LAKSHMI DURGA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6110",
+    "full_name": "CHIMME VASAVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6111",
+    "full_name": "CHIRLA HASINI SRAVANTHI KUMARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6112",
+    "full_name": "CHOPPA SIRI CHANDANA PRIYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6113",
+    "full_name": "CHUNDRU GREESHMA SRI DEVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6114",
+    "full_name": "DHANUMURI MONIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6115",
+    "full_name": "DHARAMIREDDY LOHITHA SAI ABHIRAMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6116",
+    "full_name": "EEDE NEHA SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6117",
+    "full_name": "GANGULA BALA DURGA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6118",
+    "full_name": "GANJI BHAAVITHA GRACE",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6119",
+    "full_name": "GARNIPUDI KARTHIKEYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6120",
+    "full_name": "GORU SAI DURGA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6121",
+    "full_name": "GUNISETTI HIMA NAGA GAYATHRI SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6122",
+    "full_name": "GUNNAM JAYA SAI CHANDU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6123",
+    "full_name": "GUNTUPALLI PUSHPA PUJITHA SATYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6124",
+    "full_name": "ITAKULA LIKHITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6125",
+    "full_name": "KAICHARLA MAHIMA SWARUPA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6126",
+    "full_name": "KAMBALA KALYAN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6127",
+    "full_name": "KAMISETTI LIKHITA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6128",
+    "full_name": "KARRI SARANYA YALLARESWARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6129",
+    "full_name": "KEDASU SHALINI SRI SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6130",
+    "full_name": "KEERTHI PRIYANKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6131",
+    "full_name": "KOLUKULURI YOGENDRA SAI CHARAN VARMA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6132",
+    "full_name": "KOMMANA KESAVA RAM SAI TEJAS",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6133",
+    "full_name": "KOPPARTHI NAVYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6134",
+    "full_name": "KOPPISETTI TEJA VENKATA SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6135",
+    "full_name": "KOTHAPALLI D S S SASI VARMA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6136",
+    "full_name": "KOVVURI SARANYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6137",
+    "full_name": "KROVVIDI LAKSHMI PUJITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6138",
+    "full_name": "KUNCHE PRATHYUSHA KUMARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6139",
+    "full_name": "MADDALA PRANATHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6140",
+    "full_name": "MANDARAPU RENUKA GAYATHRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6141",
+    "full_name": "MANEPALLI GOWTHAMI CHANDRIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6142",
+    "full_name": "MOHAMMAD NASREEN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6143",
+    "full_name": "MUNGAMURI PRASANNAKUMARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6144",
+    "full_name": "NALLURI CHANDU SAI KUMAR",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6145",
+    "full_name": "NAYUDU LAVANYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6146",
+    "full_name": "NUTHANGI AKSHARA ANGEL",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6147",
+    "full_name": "PALAGANI SANGEETHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6148",
+    "full_name": "PAPPOPPULA ABHISHEK PAUL",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6149",
+    "full_name": "PATIVADA SATYA SRI LATHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6150",
+    "full_name": "PENUMATSA CHANDRA SEKHARA NAGARAJU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6151",
+    "full_name": "PILLI KUMAR MANIKANTA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6152",
+    "full_name": "RACHAMALLA DINESH CHINMAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6153",
+    "full_name": "RAKOTI DINESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6154",
+    "full_name": "SANNIDHI MUKESH SRI SAI VENKAT",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6155",
+    "full_name": "SINGULURI BHAVITHANJALI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6156",
+    "full_name": "TURADA MAHIMA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6157",
+    "full_name": "UNDRAJAVARAPU AKHIL",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6158",
+    "full_name": "UPPATI SANJANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6159",
+    "full_name": "VAGU SRAVANI SAI MANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6160",
+    "full_name": "VALLURI SAINIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6161",
+    "full_name": "VANGA NISSI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6162",
+    "full_name": "VASTRALA BALA MANOJINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6163",
+    "full_name": "VEMAVARAPU TEJASWI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6164",
+    "full_name": "YALLA SAI SRI JYOTHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6165",
+    "full_name": "YALLAJOSYULA SURYA VYSHNAVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6166",
+    "full_name": "YALLAPU SRI CHARAN SRINIVAS",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A6109",
+    "full_name": "DODDI MONIKA SAI PADMAVATHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6110",
+    "full_name": "KANDELLI LAKSHMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6111",
+    "full_name": "KURMA AKHIL BABU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6112",
+    "full_name": "MADIREDDY MAHIMA RANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6113",
+    "full_name": "POTHUMARTHI PUJITH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6114",
+    "full_name": "RAMESWARAPU USHA VENKATA NAVYA SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6115",
+    "full_name": "SHAIK ABUBAKAR SIDDIQ",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6116",
+    "full_name": "YARRAMSETTI SOMA NAGA SAI GANESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A6167",
+    "full_name": "ADDEPALLI THANVITHA PAVAN DURGA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6168",
+    "full_name": "ALAPATI LAHARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6169",
+    "full_name": "ASAPU PAVAN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6170",
+    "full_name": "BHIMADOLU PRIYANKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6171",
+    "full_name": "BIRUDUGADDA ALEKHYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6172",
+    "full_name": "BODANKI KAVYA SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6173",
+    "full_name": "BORA RAKESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6174",
+    "full_name": "BORRA MEGHANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6175",
+    "full_name": "CHAPARLA SAI SRIHITHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6176",
+    "full_name": "CHILAKABATHULA GANESH GOUD",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6177",
+    "full_name": "CHITAKANA BHARGAVA RAMA SATWIK",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6178",
+    "full_name": "CHITIKINA NAGA SRIVALLI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6179",
+    "full_name": "DARLANKA BALAJI VENKATA MAHESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6180",
+    "full_name": "DOLA CHANDU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6181",
+    "full_name": "DUVVAPU NEELIMA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6182",
+    "full_name": "ELURI AMULYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6183",
+    "full_name": "GANTA MARY JHONCY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6184",
+    "full_name": "GORAPARTHI CHARAN TEJA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6185",
+    "full_name": "JALLURI BHANU PRANEETH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6186",
+    "full_name": "JONNADA AMALA RANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6187",
+    "full_name": "KOTTAPALLI CHARAN SRI NAGA SAI PAVAN KUMAR",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6188",
+    "full_name": "KARRI KUMAR SATYA DURGA PHANEENDRA REDDY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6189",
+    "full_name": "KOCHERLA SATYA PRIYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6190",
+    "full_name": "KODAVALLA SRI KRISHNA VENKATA NARAYANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6191",
+    "full_name": "KONDAVEETI HARSHIKA RAO",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6192",
+    "full_name": "MADDIPATI NAGA NIHARIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6193",
+    "full_name": "MANGARAI VINAY KUMAR",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6194",
+    "full_name": "MANUKONDA VIKRAM",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6195",
+    "full_name": "MIRIYALA PRANEETHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6196",
+    "full_name": "MOHAMMAD MEHRIN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6197",
+    "full_name": "MOHAMMAD SUHANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6198",
+    "full_name": "MOHAMMED SAMIYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A6199",
+    "full_name": "MULLAPUDI SURYA DATTA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A0",
+    "full_name": "MUMMADI PRADEEP",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A1",
+    "full_name": "MUPPIDI REVATHI DEVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A2",
+    "full_name": "NAKKA SAI AMRUTHA LAKSHMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A3",
+    "full_name": "NALLAMILLI THANUSHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A4",
+    "full_name": "PADALA PAVANI PRIYANKA REDDY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A5",
+    "full_name": "PAPATLA SUJITH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A6",
+    "full_name": "PASUPULETI HIMA BINDU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A7",
+    "full_name": "PATNALA JATHIN SURYA RAGHAVENDRA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A8",
+    "full_name": "PATURI JAHNAVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61A9",
+    "full_name": "PEDADA KAVITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B0",
+    "full_name": "POKALA JEEVAN SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B1",
+    "full_name": "PRATHI SRI VENKATA SATYA KARTHIK",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B2",
+    "full_name": "SALA LAHARI DURGA DEVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B3",
+    "full_name": "SANGANI NISHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B4",
+    "full_name": "SATTI BAVANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B5",
+    "full_name": "SHAIK ARIEF",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B6",
+    "full_name": "SODADASU MERCY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B7",
+    "full_name": "TADEPALLI NAGA GANAPATHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B8",
+    "full_name": "TADIKONDA YOGINI NAGA LAKSHMI PRASANNA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61B9",
+    "full_name": "TANDRA VINAY SRI APARNA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C0",
+    "full_name": "TEKI RENUKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C1",
+    "full_name": "TERA YESU BABU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C2",
+    "full_name": "UPPALAPATI JAHNAVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C3",
+    "full_name": "VARDHINEEDI YAGJNA SIRI SATYA SHANMUKHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C4",
+    "full_name": "VEERAMALLA CHAKRAVARTHY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C5",
+    "full_name": "VEERAMALLA PUJITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C6",
+    "full_name": "VEERAMALLA SRIDEVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C7",
+    "full_name": "VELPURI MOHAN VAMSI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C8",
+    "full_name": "VENNAPU VISWAS",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61C9",
+    "full_name": "VISHNUBHATLA V N G MOHANA SAI LAKSHMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D0",
+    "full_name": "YALLAMILLI MANASA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D1",
+    "full_name": "YERRA VARSHA NAGA SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A6117",
+    "full_name": "DANOUBOYNA SAI THANUJA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6118",
+    "full_name": "GURAJALA DHATHREESWARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6119",
+    "full_name": "KOMALA LEELA VENKATA SIVA SRI SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6120",
+    "full_name": "POTHULA DHANUSH VENKATA SATYA KRISHNA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6121",
+    "full_name": "SARIKI BARATH KUMAR SWAMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6122",
+    "full_name": "UNAGATLA RAJA VINAY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6123",
+    "full_name": "VEERAVALLI SINDHU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A6124",
+    "full_name": "VENU PRAVEEN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A61D2",
+    "full_name": "ABBURI RUCHITHA RAMYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D3",
+    "full_name": "ADAPA TRIVENI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D4",
+    "full_name": "APPALABATHULA HEMAVARSHINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D5",
+    "full_name": "BAYYAVARAPU SAI NAGA DURGA SAHITHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D6",
+    "full_name": "BETHA PURNIMA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D7",
+    "full_name": "BETHALA PRABHAKAR DAS",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D8",
+    "full_name": "BOMMA APPALA GANESH AKSHITH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61D9",
+    "full_name": "CHEPPULA YASWANTH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E0",
+    "full_name": "CHERUKURI JAHNAVI SATYA NAGESWARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E1",
+    "full_name": "CHIPPALA KEERTHANA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E2",
+    "full_name": "DARAPUREDDY NAGARAJU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E3",
+    "full_name": "ELURI BHANU PRAKASH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E4",
+    "full_name": "GADI SAI NAGA SANJAY",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E5",
+    "full_name": "GANDROTHU SHARAN RAJU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E6",
+    "full_name": "GEREKALA MUNNA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E7",
+    "full_name": "GOPIREDDY DRAKSHAYANI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E8",
+    "full_name": "GUDE BHAGYA VAMSI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61E9",
+    "full_name": "GUNDRU LAKSHMI PRAHARSHITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F0",
+    "full_name": "JALLA YASWANTHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F1",
+    "full_name": "JONNAPALLI VASANH SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F2",
+    "full_name": "KAIGALA RUCHITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F3",
+    "full_name": "KAKI SANTHOSHI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F4",
+    "full_name": "KANDIKA LAHARI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F5",
+    "full_name": "KATTA KISHOR VENKATA GANESH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F6",
+    "full_name": "KOLLI PARDHA SARADI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F7",
+    "full_name": "KONDAKA BABY SINGAM SRI NAGA LAKSHMI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F8",
+    "full_name": "KORASIKHA KOMALI SAI SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61F9",
+    "full_name": "KURAKULA HARSHINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G0",
+    "full_name": "MALISETTI THASWI SAI RAM",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G1",
+    "full_name": "MANDRU SHARMILA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G2",
+    "full_name": "MANE YAJNASRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G3",
+    "full_name": "MEDAPATI JYOTHIRMAYI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G4",
+    "full_name": "MEDIDI LAKSHMI MADHAVI PRIYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G5",
+    "full_name": "MOSALI TEJASWIN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G6",
+    "full_name": "MUPPIDI PRANITH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G7",
+    "full_name": "MUTYALA SANDHYANA DEVI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G8",
+    "full_name": "NANDAM CHARAN TEJA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61G9",
+    "full_name": "NANDYALA EMMANIYEL RAJU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H0",
+    "full_name": "NOWBATHU NIHARIKA VENKATA SAI VINITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H1",
+    "full_name": "PADILAM SAIBABU",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H2",
+    "full_name": "PAKALAPATI JITHENDRA SAI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H3",
+    "full_name": "PAKIRAM DHANUSH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H4",
+    "full_name": "PALAPARTHI SOWMYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H5",
+    "full_name": "PALLA SAI SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H6",
+    "full_name": "PAMPANA YASASWINI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H7",
+    "full_name": "POLINA GAGANA SRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H8",
+    "full_name": "PONNAPALLI RAM CHARAN TEJA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61H9",
+    "full_name": "PULLURI SRI TEJA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I0",
+    "full_name": "RAVIPATI SHANMUKHA SAI SIDDARTHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I1",
+    "full_name": "RAYI DILEEP VENKAT SAMPATH",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I2",
+    "full_name": "SAYED MOHAMMED ALI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I3",
+    "full_name": "SETTI GEETHIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I4",
+    "full_name": "SHAIK HANIF",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I5",
+    "full_name": "SHAIK MOHIDDIN ARIF",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I6",
+    "full_name": "TALARAPU JAYANTH MAHENDRA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I7",
+    "full_name": "TALARI SHRIHAN",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I8",
+    "full_name": "USURUMARTHI MERCY SRAVYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61I9",
+    "full_name": "VANKAYALA HEMA MANVITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61J0",
+    "full_name": "VEERAVALLI BHAVYA DEEPIKA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61J1",
+    "full_name": "VEJJU LAKSHMI DIVYA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61J2",
+    "full_name": "VELAGALA GAYATRI",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61J3",
+    "full_name": "YALLAMELLI ROSHITHA",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A61J4",
+    "full_name": "YERRA SHANMUKHA DURGA SRINIVAS",
+    "branch": "AIML",
+    "branch_code": "AIM",
+    "branch_name": "Artificial Intelligence and Machine Learning",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A4301",
+    "full_name": "ANUMOLU ASHOK SAI KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4302",
+    "full_name": "ARADHYULA NAGA VENKATA DURGA SAIRAM",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4303",
+    "full_name": "GEDALA AKHILA VENKATA SRI RAM",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4304",
+    "full_name": "MULLU VAMSI NARAYANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4305",
+    "full_name": "PABOLU B T SUBRAMANYA SAIESHU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4306",
+    "full_name": "RAVURI ESWAR CHANDRA NAGA YASWANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A4301",
+    "full_name": "ABBIREDDI HARSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4302",
+    "full_name": "ACHANTA DURGAPRASAD",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4303",
+    "full_name": "ADABALA RACHANA KUMARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4304",
+    "full_name": "AMBATI REVANTH SAI SUNAYANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4305",
+    "full_name": "ANNAMNEEDI VIDHYA SREE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4306",
+    "full_name": "ANUSHKA JAIN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4307",
+    "full_name": "BAIRISETTI NIKITHA KRISHNA SANTHOSHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4308",
+    "full_name": "BALE MALLESWARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4309",
+    "full_name": "BALLA SIVA RAMA KRISHNA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4310",
+    "full_name": "BYPO ABHI JASMANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4311",
+    "full_name": "CHADHALAVADA VIJAYA LAKSHMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4312",
+    "full_name": "CHINNAMSETTI GAYATHRI PRIYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4313",
+    "full_name": "CHINNI NAGA VENKATA BHARGAVI SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4314",
+    "full_name": "CHITROJU CHANDRIKA NAGA SAI SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4315",
+    "full_name": "DAYANA VIKAS",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4316",
+    "full_name": "DINTAKURTHI SRI NAGA HEMANYA VAISHNAVI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4317",
+    "full_name": "DURGA GEETHANJALI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4318",
+    "full_name": "GANDHAM TEJESH VENKATA NAGA SAI ARUN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4319",
+    "full_name": "GONTHUMURTHY DIVYA SREE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4320",
+    "full_name": "GOPE SIRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4321",
+    "full_name": "GOUTHU HARSHINI SRI PRAPULLAKUMARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4322",
+    "full_name": "GUDAPATI DORABABU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4323",
+    "full_name": "IJJADA HARSHA VARDHAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4324",
+    "full_name": "INDUKURI NAGA SATYANARAYANA RAJU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4325",
+    "full_name": "KADALI PRIYANKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4326",
+    "full_name": "KAGITHA PAVAN SAI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4327",
+    "full_name": "KALAGANTI VARSHINI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4328",
+    "full_name": "KATARI NITYA MOUNIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4329",
+    "full_name": "KAVALA LAKSHMI NARASIMHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4330",
+    "full_name": "KESANA KEERTHI CHANDANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4331",
+    "full_name": "KETHA SANTHI KIRAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4332",
+    "full_name": "KONCHA TRISHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4333",
+    "full_name": "KORLEPARA NAGA VASAVI ALEKYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4334",
+    "full_name": "KOTRA BINNU VYSHALI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4335",
+    "full_name": "LANKAPALLI VALLI PRASANNA KUMARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4336",
+    "full_name": "MAAKA SANDHYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4337",
+    "full_name": "MADDALA RAMA SAI GANGADHAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4338",
+    "full_name": "MADDUKURI JAYASRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4339",
+    "full_name": "MADDURI TEJA VENKATA SUBRAHMANYAM",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4340",
+    "full_name": "MEDIKONDA HIMAVANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4341",
+    "full_name": "MEESALA PRAJWALA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4342",
+    "full_name": "MOHAMMAD BAJID ALI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4343",
+    "full_name": "MOHAMMED AFRIN VAHIDUNNISA BEGUM",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4344",
+    "full_name": "MOHAMMED DASMINE SARA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4345",
+    "full_name": "MUSSE RAJESH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4346",
+    "full_name": "PALA KEERTHI SUVARNIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4347",
+    "full_name": "PASUPULETI HARIKA SRI LALITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4348",
+    "full_name": "PASUPULETI KOTA SATYA REVATHI VAISHNAVI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4349",
+    "full_name": "PEDAPUDI BALA PRAVEEN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4350",
+    "full_name": "PERUMALLA JOSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4351",
+    "full_name": "PILLI RENUKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4352",
+    "full_name": "PINAPATHUNI MEENU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4353",
+    "full_name": "PULI KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4354",
+    "full_name": "PUNNAM NAGA PRAVEEN KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4355",
+    "full_name": "RAVIPATI HARSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4356",
+    "full_name": "SEELABOYINA PALLAVI LAKSHMI DURGA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4357",
+    "full_name": "SUNKARA CHARMIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4358",
+    "full_name": "SURISETTI GOWTHAMI ESHWARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4359",
+    "full_name": "THIMMARAJU MOHITH NAGA CHARAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4360",
+    "full_name": "TONDAPU HARSHAVARDHAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4361",
+    "full_name": "UDUMALA POOJA SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4362",
+    "full_name": "VAMISETTI DURGA VENKATA LAKSHMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4363",
+    "full_name": "YALLAGANI VENKATESWARA RAO",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4364",
+    "full_name": "YARAGOGU DANA SESHA SAI CHARAN TEJA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A4307",
+    "full_name": "BATNA TIRUPATHI RAO",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4308",
+    "full_name": "GANTA HAREESH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4309",
+    "full_name": "GEDDAM TIRUMALA SRI THANUSH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4310",
+    "full_name": "KOSURI LALITH KUMAR VARMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4311",
+    "full_name": "LOKANADHAM YAJESWAR BABU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4312",
+    "full_name": "MOTUPALLI GEETHIKA PRABHU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4313",
+    "full_name": "THOTA KUSUMA DURAGA PRASANNA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4314",
+    "full_name": "VALLABHASETTI R K TEJASWINI DURGA DEVI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A4365",
+    "full_name": "ACHANTA JYOSNIKA VIJAYA SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4366",
+    "full_name": "ALLU HARSHA VARDHAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4367",
+    "full_name": "ANANTALA LAKSHMI MEGHANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4368",
+    "full_name": "ARIGELA SUSHMA FLORENCE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4369",
+    "full_name": "BALLA LALITENDRA SATYA SAI KARTHIKEYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4370",
+    "full_name": "BARRE PALLAVIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4371",
+    "full_name": "BHATRAJU GAYATRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4372",
+    "full_name": "BHUPATHI HANUSH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4373",
+    "full_name": "BONTHU BHANU PRASAD",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4374",
+    "full_name": "BORUSU THANUSHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4375",
+    "full_name": "CHITIKELA SAI SUMALATHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4376",
+    "full_name": "CHUNDRU KHYATI SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4377",
+    "full_name": "CHUNDRU YASWANTH PHANI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4378",
+    "full_name": "DAKE GANESH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4379",
+    "full_name": "DEVARAPALLI SHANMUKHA SAI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4380",
+    "full_name": "DHARMISETTI PARDHA SARADHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4381",
+    "full_name": "EDURI VARSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4382",
+    "full_name": "GADDE CHAITANYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4383",
+    "full_name": "GALINKI DEEKSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4384",
+    "full_name": "GANJI NAVYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4385",
+    "full_name": "GHANTA CHAITANYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4386",
+    "full_name": "GOGULAPATI DIVYA SAHITHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4387",
+    "full_name": "GORREMUCHU HEBILIN RANI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4388",
+    "full_name": "KALAVA VIJAY KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4389",
+    "full_name": "KARELLA SRI HEMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4390",
+    "full_name": "KARTALA GREESHMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4391",
+    "full_name": "KASIMSETTI BHAVYA SATYA SRIVALLI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4392",
+    "full_name": "KAVURU BHARGAV SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4393",
+    "full_name": "KODELLI SNEHITHA GRACE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4394",
+    "full_name": "KOLLA PAVANA NAGA PRASUNNA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4395",
+    "full_name": "KONE YOGESWAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4396",
+    "full_name": "KOTLA BHUVANESWARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4397",
+    "full_name": "KOVVURI CHAITANYA REDDY",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4398",
+    "full_name": "KSHATRI AKARSH PRASAD",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4399",
+    "full_name": "KUMBHAGIRI HARSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A0",
+    "full_name": "KUNAPARAJU JNANA ASHIMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A1",
+    "full_name": "KUPPULA AKSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A2",
+    "full_name": "MADDU JEEVANA SAI SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A3",
+    "full_name": "MADDU TUSHYA SESHA SAI SRIMUKHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A4",
+    "full_name": "MARISETTI RAMA DURGA SRI PRASANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A5",
+    "full_name": "MIRIYALA DWARAKA PAVAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A6",
+    "full_name": "MOHAMMED SAMEEHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A7",
+    "full_name": "NALAM VASAVI SAITHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A8",
+    "full_name": "PATHIKA NIRMAL AJAY",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43A9",
+    "full_name": "PATNALA TRIVIKRAM DURGA PRASAD",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B0",
+    "full_name": "PULICHERLA VENKATA YOGITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B1",
+    "full_name": "PULLIPUDI RISHITHA SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B2",
+    "full_name": "PUPPALA VENKATA SAI SIDDI VASANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B3",
+    "full_name": "PYLA POOJITHA DEVI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B4",
+    "full_name": "RAMISETTI GORMA SUBHASH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B5",
+    "full_name": "RAVADA MANOHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B6",
+    "full_name": "RAVURI POOJA SAROJINI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B7",
+    "full_name": "SAMAYAMANTRI RAGAVENDRA SAMPATH PRANAV",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B8",
+    "full_name": "SANKU LALITHA HEMA SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43B9",
+    "full_name": "SAPPA SRI SATYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C0",
+    "full_name": "SHEIK AZIZZ REHAMAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C1",
+    "full_name": "SHEIK FATHIMA BEEBI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C2",
+    "full_name": "SOMANCHI ARUNIMA VIDYA SRI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C3",
+    "full_name": "SUNKARA NAVEEN KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C4",
+    "full_name": "TETALI LAKSHMI KAVERI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C5",
+    "full_name": "THONTA JASWANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C6",
+    "full_name": "THUMPIDI MAMATHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C7",
+    "full_name": "VEGICHARLA SAI DURGA NAGA RAJU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C8",
+    "full_name": "YADLA DEVI NAGA SRAVYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43C9",
+    "full_name": "YARRAMSETTI VENKATA PAVAN KISHORE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "B",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A4315",
+    "full_name": "BETHA MEGHANA SATYA PRIYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4316",
+    "full_name": "DANDUBOINA CHAITANYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4317",
+    "full_name": "LODDANA SALOMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4318",
+    "full_name": "PALIVELA DURGA PRASANNA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4319",
+    "full_name": "UDATALA AKSHAYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A43D0",
+    "full_name": "ADARI THRINEESHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D1",
+    "full_name": "ADDALA YASWANTH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D2",
+    "full_name": "ADHIKARI HADASSA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D3",
+    "full_name": "AKULA MOHANA LAKSHMI GANAPATHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D4",
+    "full_name": "ARJA MANI CHANDANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D5",
+    "full_name": "ARUGOLLU PRASANNA PRIYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D6",
+    "full_name": "ATYAM SRINIDHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D7",
+    "full_name": "BOBBILI SRI NAGA VIGHNESWAR KOMAL",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D8",
+    "full_name": "BODDU REVANTH SAI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43D9",
+    "full_name": "BONTHU SANDHYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E0",
+    "full_name": "CHEELI PRAVEEN KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E1",
+    "full_name": "CHEGONDI THRIVIKRAM SAI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E2",
+    "full_name": "CHIPURUPALLI HARI RAMA DURGA PRASAD",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E3",
+    "full_name": "CHIRAVURI LOKESH NAGA SANTHOSH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E4",
+    "full_name": "DASARI LIKHITHA LAKSHMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E5",
+    "full_name": "EMMADISETTY VENKATA MALYA GOSRI CHANDINIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E6",
+    "full_name": "GANDHARAPU UMA MAHESWARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E7",
+    "full_name": "GORRELA HEMANTH KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E8",
+    "full_name": "GOTTUMUKKALA RISHIK GANESH VARMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43E9",
+    "full_name": "GUDURI MEGHANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F0",
+    "full_name": "GUNDABATTHULA BINDU PAVANI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F1",
+    "full_name": "GURADASU REVANTH KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F2",
+    "full_name": "INDIGIMILLI CHANDU",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F3",
+    "full_name": "IRRINKI VASAVI NAGA SIVANI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F4",
+    "full_name": "ISSAPURI KAVYA SRI DURGA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F5",
+    "full_name": "ISUKAPATI SANTOSH KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F6",
+    "full_name": "JOGI ARUNA SRIVALLI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F7",
+    "full_name": "KAJA THANMAI SRI HARSHITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F8",
+    "full_name": "KARNATI MOUNIKA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43F9",
+    "full_name": "KARRI VIHARIKA REDDY",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G0",
+    "full_name": "KASI GOWTHAM",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G1",
+    "full_name": "KASI SRI RAJ",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G2",
+    "full_name": "KETHIREDDY YASWANTH KUMAR",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G3",
+    "full_name": "KONAKALLA KUSUMA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G4",
+    "full_name": "KORAM SONU AJAL",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G5",
+    "full_name": "KOVVURI RUPA VENKATA LAKSHMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G6",
+    "full_name": "KOWTHAVARAPU KAVYA SRI LAKSHMI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G7",
+    "full_name": "KUMPATLA SHANMUKHA PRIYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G8",
+    "full_name": "NUKAVARAPU VASAVI LAKSHMI APARNA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43G9",
+    "full_name": "NANDAM VISHNU PAVAN",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H0",
+    "full_name": "PAMPANA GIGESHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H1",
+    "full_name": "PANDRAKA NAVYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H2",
+    "full_name": "POTLURI DURGA ANITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H3",
+    "full_name": "REESU GRIHITH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H4",
+    "full_name": "SATTI SAI ASMITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H5",
+    "full_name": "SEELI LUCKY",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H6",
+    "full_name": "SIRIGINEEDI NAGA VEERA MANIKANTA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H7",
+    "full_name": "SUNNA MOHAN VENKAT HEMA TEJA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H8",
+    "full_name": "SWAMIREDDY BHAVANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43H9",
+    "full_name": "TADEPALLI KUSUMAGRACE",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I0",
+    "full_name": "TADI NAGA UMA MAHESWARI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I1",
+    "full_name": "TAMANAMPUDI LAKSHMI SAI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I2",
+    "full_name": "TAMARAKOLANU JAHNAVI SRI SANA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I3",
+    "full_name": "THOTA BHAVYA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I4",
+    "full_name": "THOTAKURA ASRITHA DIKSHITH",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I5",
+    "full_name": "UDDISI BHUVANA KRUTHI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I6",
+    "full_name": "VADDI SAI PUJITHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I7",
+    "full_name": "VEERAMALLU BHAVANI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I8",
+    "full_name": "VELAGALA SHANMUKHA SRI VENKATA YASASWINI",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43I9",
+    "full_name": "YADLA JAHNAVI SRI KOMALA DURGA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A43J0",
+    "full_name": "SHAIK ARBAZ AHMAD ALISHA",
+    "branch": "CAI",
+    "branch_code": "CAI",
+    "branch_name": "Computer Science and Engineering (Artificial Intelligence)",
+    "section": "C",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A85A4401",
+    "full_name": "BALLIPATI BALA GAYATHRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4402",
+    "full_name": "MIRIYALA SIVA SURYA TEJA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4403",
+    "full_name": "MUTYALA TULASI MADHURI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4404",
+    "full_name": "ODUGU TEJASWINI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4405",
+    "full_name": "PECHETTI CHANDU LALITHA SAGAR",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4406",
+    "full_name": "RACHAPALLI RITHIKA SAI PRIYA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4407",
+    "full_name": "RUDRARAJU HARIKA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A85A4408",
+    "full_name": "VEMA NAGA VENKATA DURGA SAI CHARAN",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "2",
+    "entry_type": "lateral"
+  },
+  {
+    "roll_no": "26A81A4401",
+    "full_name": "AATHUKURI SNEHITHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4402",
+    "full_name": "AKULA SATYA RAJ KUMAR",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4403",
+    "full_name": "ALAMURI ANNIE NIREEKSHANA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4404",
+    "full_name": "ANUPOJU JISHETHA SRI SATYA PURNA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4405",
+    "full_name": "AVULA RENU SREE",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4406",
+    "full_name": "AYINAVILLI BHAGYASRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4407",
+    "full_name": "BAKI YOGI VANDITHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4408",
+    "full_name": "BALLA ALEKHYA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4409",
+    "full_name": "BELLAMKONDA KEERTHI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4410",
+    "full_name": "BHAVANASI SAYUJA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4411",
+    "full_name": "CHEDUNURI DEVI SRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4412",
+    "full_name": "CHINTALAPATI MEHAR GAYATHRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4413",
+    "full_name": "DANDAMUDI SAI GANGADHAR JASWANTH",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4414",
+    "full_name": "DAS SNEHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4415",
+    "full_name": "DAVULURI THANVEER",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4416",
+    "full_name": "GANNAVARAPU NANDINI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4417",
+    "full_name": "GARIMELLA VENKATA NAGA SRI SAI PRANATHI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4418",
+    "full_name": "GOLLA SUSHANTH",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4419",
+    "full_name": "GOTTUMUKKALA JASWANTH KRISHNA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4420",
+    "full_name": "GUTTULA ROSHINI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4421",
+    "full_name": "JALLIPALLI KEERTHI SRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4422",
+    "full_name": "KARAKA KEERTHISRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4423",
+    "full_name": "KOKKIRALA ASWINI SAI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4424",
+    "full_name": "KOMPALLI GEETHA SRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4425",
+    "full_name": "KONALA CHANDRA MOUNIKA REDDY",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4426",
+    "full_name": "KONDETI PRASANTH",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4427",
+    "full_name": "KORAPATI ANIL",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4428",
+    "full_name": "KOVVURI VENKATA SAI REDDY",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4429",
+    "full_name": "KUDIPUDI PALLAVI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4430",
+    "full_name": "LANKE MEERRAJU",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4431",
+    "full_name": "MADDIPATI RAMYA SATYA SAI SWETHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4432",
+    "full_name": "MADDULA T N V RATNA HAMSIKA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4433",
+    "full_name": "MAJJI TARUN",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4434",
+    "full_name": "MALLAPUREDDY YASASWINI DURGA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4435",
+    "full_name": "MANIKONDA ABHISHEK PAUL",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4436",
+    "full_name": "MANUKONDA SURYA TEJA SRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4437",
+    "full_name": "MARICHARLA HARSHITHANJALI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4438",
+    "full_name": "MARIKURTHI PRANUTHI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4439",
+    "full_name": "MEDAGAM VENKATA YESWANTH REDDY",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4440",
+    "full_name": "MORTHA PAVAN KUMAR",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4441",
+    "full_name": "MUPPIDI JESNIKA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4442",
+    "full_name": "OBILISETTI MOUNIKA DEVI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4443",
+    "full_name": "PALLABOTHULA AMRUTHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4444",
+    "full_name": "PATTAPU SRI SAI TEJASWINI NAIDU",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4445",
+    "full_name": "PEDAMUTTI ABHISHEK",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4446",
+    "full_name": "PINDI SIVA SAI KRISHNA MEGHANA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4447",
+    "full_name": "POSIMSETTI SOWRYA NAVADEEP",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4448",
+    "full_name": "PUSALA KEERTHANA SAI NAGA LAKSHMI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4449",
+    "full_name": "ROWTHU NANI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4450",
+    "full_name": "SALADI BALA SUBRAHMANYAM",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4451",
+    "full_name": "SAMAYAM SATYA SAI SRIRAM",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4452",
+    "full_name": "SAMMENGA SAINADH GANESH",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4453",
+    "full_name": "SHAIK AYESHA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4454",
+    "full_name": "SHAIK NIHAL",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4455",
+    "full_name": "SHAIK SAFI UDDIN",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4456",
+    "full_name": "SIVARSU DHONI KARTHIK",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4457",
+    "full_name": "TEKKALI CHARAN SRIKAR",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4458",
+    "full_name": "THADEPU NAGA DURGA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4459",
+    "full_name": "THOTA V I P SAI VEERA VEDA LAHARI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4460",
+    "full_name": "TOTA JAHNAVI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4461",
+    "full_name": "UDATALA RAMYA SYAMALA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4462",
+    "full_name": "VASADI BHAVYASRI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4463",
+    "full_name": "VIRODHULA PRAVEEN SAI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4464",
+    "full_name": "YADALA DIVYA KARUNYA",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4465",
+    "full_name": "YARRAGOLLA NANDINI",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  },
+  {
+    "roll_no": "26A81A4466",
+    "full_name": "DIDDIGARLA STEPHEN BABU",
+    "branch": "CSD",
+    "branch_code": "CSD",
+    "branch_name": "Computer Science and Engineering (Data Science)",
+    "section": "A",
+    "year": "1",
+    "entry_type": "regular"
+  }
+]
